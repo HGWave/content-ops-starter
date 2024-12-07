@@ -169,7 +169,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 뺏긴 침대 자리
-        tagline: Feature 1
+        tagline: Feature 2
         subtitle: '9,999+'
         text: |
           침대는 집주인의 것이라고 생각했지만,
