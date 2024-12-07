@@ -96,8 +96,10 @@ sections:
       - title: 200%
         subtitle: 골골송의 위력
         text: |
-          볼륨은 200%, 집사의 의지력은 0%
-          이 작은 몸에서 나오는 우렁친 총소리! 집주인 무장 해제
+          골골송은 단순한 소리가 아닙니다.
+          볼륨은 200%, 의지력은 0%!
+          이 작은 몸에서 나오는 우렁찬 총소리(?)는
+          당신을 무장 해제시킵니다.
         image:
           url: /images/IMG_0390.jpeg
           altText: Featured icon three
