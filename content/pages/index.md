@@ -41,10 +41,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: 츄르 뜯은 횟수
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          츄르를 뜯어준 50만 번의 순간들
+          그리곤 50만 번의 "더 줘!"라는 눈빛 공격
+          츄르 뜯기 올림픽, 집사들이여 파이팅!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
