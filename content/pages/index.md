@@ -141,33 +141,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 쓸데없이 귀여운 행동 횟수
-        tagline: Feature 2
-        subtitle: 999+
-        text: |+
-          <div style="text-align: left">왜 이런 행동을 할까요?</div>
-
-        image:
-          type: ImageBlock
-          url: /images/IMG_0826.jpeg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: 뺏긴 침대 자리
         tagline: Feature 1
         subtitle: '9,999+'
@@ -186,6 +159,33 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: 쓸데없이 귀여운 행동 횟수
+        tagline: Feature 2
+        subtitle: 999+
+        text: |+
+          <div style="text-align: left">왜 이런 행동을 할까요?</div>
+
+        image:
+          type: ImageBlock
+          url: /images/IMG_0826.jpeg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
