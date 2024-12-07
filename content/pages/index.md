@@ -96,7 +96,7 @@ sections:
         text: |
           볼륨은 200%, 집사의 의지력은 0%!
           이 작은 몸에서 나오는 우렁친 총소리
-          결국 집사는 무장 해제
+          결국 집주안은 무장 해제
         image:
           url: /images/IMG_0390.jpeg
           altText: Featured icon three
