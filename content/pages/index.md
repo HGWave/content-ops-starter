@@ -141,7 +141,7 @@ sections:
         tagline: Feature 1
         subtitle: 999+
         text: |
-          왜 이런 행동을 하지?
+          왜 이런 행동을 할까?
         image:
           type: ImageBlock
           url: /images/IMG_0826.jpeg
