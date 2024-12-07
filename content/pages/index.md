@@ -39,7 +39,7 @@ sections:
     subtitle: 3가지 중요 내용
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 500K
         subtitle: 츄르 뜯긴 횟수
         text: |
           츄르를 뜯을 때마다 느껴지는 간절한 눈빛 50만 번의 "줘!"라는 무언의 외침
