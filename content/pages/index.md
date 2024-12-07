@@ -30,7 +30,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 주요 내용
       color: text-dark
       styles:
         self:
