@@ -145,7 +145,7 @@ sections:
         tagline: Feature 1
         subtitle: 999+
         text: |+
-          <div style="text-align: left">왜 이런 행동을 할까?</div>
+          <div style="text-align: left">왜 이런 행동을 할까요?</div>
 
         image:
           type: ImageBlock
