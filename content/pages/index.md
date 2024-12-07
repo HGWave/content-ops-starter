@@ -137,7 +137,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: 뺏긴 침대 자리
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
