@@ -139,7 +139,7 @@ sections:
       - type: FeaturedItem
         title: 뺏긴 침대 자리
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: '9,999+'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
