@@ -141,7 +141,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 뺏긴 침대 자리
+        title: 뺏앗긴 침대
         tagline: Feature 1
         subtitle: '9,999+'
         text: |
