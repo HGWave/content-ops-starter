@@ -168,7 +168,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: 뺏앗긴 침대
+        title: 빼앗긴 침대
         tagline: Feature 1
         subtitle: '9,999+'
         text: |
