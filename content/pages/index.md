@@ -140,10 +140,11 @@ sections:
         title: 뺏긴 침대 자리
         tagline: Feature 2
         subtitle: '9,999+'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          침대는 집주인의 것이라고 생각했지만,
+          언제부턴가 자는 모습을 보고
+          "이건 원래 네 거였나 봐..." 하고 체념.
+          결국 남은 구석에서 웅크리고 자는 건 집주인
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
