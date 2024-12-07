@@ -41,8 +41,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: 츄르 뜯긴 횟수
-        text: |
-          츄르를 뜯을 때마다 느껴지는 간절한 눈빛 50만 번의 "줘!"라는 무언의 외침
+        text: >
+          츄르를 뜯는 순간마다 간절한 눈빛과 함께 찾아오는 50만 번의 "내놔!"라는 무언의 외침과 함께, 당신의 삶은 한층
+          빈곤해집니다. 지금 바로 경험하세요!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
