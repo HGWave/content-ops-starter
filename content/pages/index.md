@@ -42,9 +42,9 @@ sections:
         title: 500k
         subtitle: 츄르 뜯은 횟수
         text: |
-          츄르를 뜯어준 50만 번의 순간들
-          그리곤 50만 번의 "더 줘!"라는 눈빛 공격
-          츄르 뜯기 올림픽, 집사들이여 파이팅!
+          츄르를 뜯을 때마다 느껴지는 간절한 눈빛
+
+          50만 번의 "줘!"라는 무언의 외침
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
