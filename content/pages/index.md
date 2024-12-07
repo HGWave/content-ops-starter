@@ -137,7 +137,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 쓸데없이 귀여운 행동 횟수
+        title: 999+
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
