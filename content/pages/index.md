@@ -69,10 +69,10 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: 방해한 기록
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          진지할 때를 귀신같이 알아차립니다
+          20배 더 집중해야 하는 집사의 운명
+          키보드 위, 책 위, 심지어 얼굴 위까지 점령한 그들만의 세계!
         image:
           url: /images/IMG_0790.jpeg
           altText: Featured icon two
