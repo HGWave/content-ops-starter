@@ -30,7 +30,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 핵심 내용
+      text: 핵심 기능
       color: text-dark
       styles:
         self:
