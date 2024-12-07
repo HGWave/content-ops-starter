@@ -13,7 +13,7 @@ sections:
       functionality, so kindly take it into consideration.
     actions: []
     media:
-      url: /images/abstract-feature2.svg
+      url: /images/IMG_0821.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
