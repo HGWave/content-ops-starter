@@ -142,7 +142,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 쓸데없이 귀여운 행동 횟수
-        tagline: Feature 1
+        tagline: Feature 2
         subtitle: 999+
         text: |+
           <div style="text-align: left">왜 이런 행동을 할까요?</div>
