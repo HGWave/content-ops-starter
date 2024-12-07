@@ -94,10 +94,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: 골골송의 위력
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          볼륨은 200%, 집사의 의지력은 0%!
+          이 작은 몸에서 나오는 우렁친 총소리
+          결국 집사는 무장 해제
         image:
           url: /images/IMG_0390.jpeg
           altText: Featured icon three
