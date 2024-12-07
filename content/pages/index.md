@@ -140,8 +140,9 @@ sections:
         title: 쓸데없이 귀여운 행동 횟수
         tagline: Feature 1
         subtitle: 999+
-        text: |
-          왜 이런 행동을 할까?
+        text: |+
+          <div style="text-align: center">왜 이런 행동을 할까? </div>
+
         image:
           type: ImageBlock
           url: /images/IMG_0826.jpeg
