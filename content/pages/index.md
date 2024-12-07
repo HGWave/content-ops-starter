@@ -147,7 +147,7 @@ sections:
           결국 남은 구석에서 웅크리고 자는 건 집주인
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/IMG_0003.jpeg
           altText: Business consulting
           elementId: ''
           styles:
