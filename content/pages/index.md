@@ -36,7 +36,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 3가지 핵심 내용 리스트
+    subtitle: 3가지 중요 내용
     items:
       - type: FeaturedItem
         title: 500k
