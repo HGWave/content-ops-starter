@@ -73,7 +73,7 @@ sections:
           20배 더 치열해진 집중력,
           책 위, 키보드 위, 심지어 가슴 위까지!
           하지만 걱정 마세요. 이 모든 방해는 귀여움이라는 치트키로
-          순식간에 용서받습니다. 이 매력을 놓치지 마세요!
+          순식간에 잊어버립니다.
         image:
           url: /images/IMG_0790.jpeg
           altText: Featured icon two
