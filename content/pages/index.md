@@ -140,10 +140,8 @@ sections:
         title: 쓸데없이 귀여운 행동 횟수
         tagline: Feature 1
         subtitle: 999+
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          왜 이런 행동을 하지?
         image:
           type: ImageBlock
           url: /images/IMG_0826.jpeg
