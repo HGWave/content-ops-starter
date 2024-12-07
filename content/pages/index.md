@@ -70,7 +70,8 @@ sections:
         text: |
           바쁠 때를 귀신같이 알아차립니다
           20배 더 집중해야 하는 운명
-          키보드 위, 책 위, 심지어 얼굴 위까지 방해당하는게 이치
+          키보드 위, 책 위, 그리고 당신의 가슴 위까지 점령한 그들의 작전
+          하지만 방해도 귀여우면 괜찮죠!
         image:
           url: /images/IMG_0790.jpeg
           altText: Featured icon two
