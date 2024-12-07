@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: hello
     text: >
-      Please note that this page is under development. There may be errors in
-      functionality, so kindly take it into consideration.
+      This product is in development. Please note that there is no sales
+      schedule.
     actions: []
     media:
       url: /images/IMG_0693.jpeg
