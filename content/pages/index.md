@@ -383,6 +383,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: ㅇㅇㅇ
   - title: Divider
     colors: bg-light-fg-dark
     styles:
