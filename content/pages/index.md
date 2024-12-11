@@ -321,7 +321,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 김초보
-        tagline: Feature 2
+        tagline: 후기 2
         subtitle: 17분전
         text: >+
           <div style="text-align: left">"10분 전만 해도 소파 위에서 자던 애가 제가 키보드에 손 올리자마자
