@@ -320,7 +320,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 쓸데없이 귀여운 행동 횟수
+        title: 김초보
         tagline: Feature 2
         subtitle: 999+
         text: |+
