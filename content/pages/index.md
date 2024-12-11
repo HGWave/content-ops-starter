@@ -73,7 +73,7 @@ sections:
           날아옵니다. 과연 이 방해를 거부할 수 있을까요?**
         image:
           url: /images/_com.apple.Pasteboard.DneHwE 2.png
-          altText: Featured icon two
+          altText: ''
           elementId: ''
           type: ImageBlock
         actions: []
