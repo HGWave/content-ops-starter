@@ -324,8 +324,8 @@ sections:
         tagline: 후기 2
         subtitle: 17분전
         text: >+
-          <div style="text-align: left">"10분 전만 해도 소파 위에서 자던 애가 제가 키보드에 손 올리자마자
-          갑자기 가슴팍에 올라탔어요. 이거 시스템 자동화 맞나요? 진짜 무서울 정도로 정확해요. 근데 너무 귀엽잖아!!!"</div>
+          <div style="text-align: left">*"10분 전만 해도 소파 위에서 자던 애가 제가 키보드에 손 올리자마자
+          갑자기 가슴팍에 올라탔어요. 이거 시스템 자동화 맞나요? 진짜 무서울 정도로 정확해요. 근데 너무 귀엽잖아!!"*</div>
 
         image:
           type: ImageBlock
