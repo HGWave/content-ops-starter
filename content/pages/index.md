@@ -181,7 +181,7 @@ sections:
           현실적 선택, 더 많은 츄르와 평화로운 삶
 
         features:
-          - Feature one
+          - '츄르 무제한: 이제 츄르 봉지를 수시로 뜯어도 됩니다. 고양이와 평화 협정 체결 완료!'
           - Feature two
           - Feature three
           - Feature four
