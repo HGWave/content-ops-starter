@@ -322,7 +322,7 @@ sections:
       - type: FeaturedItem
         title: 김초보
         tagline: Feature 2
-        subtitle: 999+
+        subtitle: 17분전
         text: |+
           <div style="text-align: left">왜 이런 행동을 할까요?</div>
 
