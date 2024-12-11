@@ -72,7 +72,7 @@ sections:
           **책 위? 키보드 위? 아니, 당신의 가슴 위까지! 바쁘다고요? 그럼 지금 바로 당신에게 주목하라는 강력한 신호가
           날아옵니다. 과연 이 방해를 거부할 수 있을까요?**
         image:
-          url: /images/squared_image_3.jpeg
+          url: /images/_com.apple.Pasteboard.DneHwE 2.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
