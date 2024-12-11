@@ -136,7 +136,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: 완벽한 가격!
       color: text-dark
       styles:
         self:
