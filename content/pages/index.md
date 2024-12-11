@@ -62,7 +62,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/squared_image_1.jpeg
+          url: /images/_com.apple.Pasteboard.MCkNyF.jpg
           styles:
             self:
               borderRadius: x-large
