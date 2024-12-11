@@ -60,7 +60,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           url: /images/_com.apple.Pasteboard.MCkNyF 2.png
           styles:
