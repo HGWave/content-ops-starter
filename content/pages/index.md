@@ -141,7 +141,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 3가지 유연한 솔류션
+    subtitle: 3가지 유연한 솔루션
     plans:
       - type: PricingPlan
         title: ''
