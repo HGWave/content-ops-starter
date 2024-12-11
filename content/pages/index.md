@@ -209,9 +209,8 @@ sections:
         title: ''
         price: 영구 요금제
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          이건 투자입니다, 고양이와의 평생 행복을 위해
         features:
           - Feature one
           - Feature two
