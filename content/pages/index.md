@@ -320,6 +320,34 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
+        title: 김초보
+        tagline: 후기 2
+        subtitle: 17분전
+        text: >+
+          <div style="text-align: left">"10분 전만 해도 소파 위에서 자던 애가 제가 키보드에 손 올리자마자
+          갑자기 가슴팍에 올라탔어요. 이거 시스템 자동화 맞나요? 진짜 무서울 정도로 정확해요. 근데 너무 귀엽잖아!!!"</div>
+
+        image:
+          type: ImageBlock
+          url: /images/IMG_0826.jpeg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
         title: 한집사 고객님
         tagline: 후기 1
         subtitle: 1분전
@@ -337,34 +365,6 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: 김초보
-        tagline: 후기 2
-        subtitle: 17분전
-        text: >+
-          <div style="text-align: left">"10분 전만 해도 소파 위에서 자던 애가 제가 키보드에 손 올리자마자
-          갑자기 가슴팍에 올라탔어요. 이거 시스템 자동화 맞나요? 진짜 무서울 정도로 정확해요. 근데 너무 귀엽잖아!!!"</div>
-
-        image:
-          type: ImageBlock
-          url: /images/IMG_0826.jpeg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
