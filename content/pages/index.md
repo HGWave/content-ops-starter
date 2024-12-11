@@ -154,7 +154,6 @@ sections:
           - '가벼운 시작: 고양이와의 첫 만남을 위한 기본 플랜. 당신은 부담 제로, 고양이는 만족 만점!'
           - '제한된 혜택: 츄르 제공 횟수는 제한적. 방해도 약간 덜 치열. 하지만 사랑만큼은 무제한!'
           - '광고 시청: 가끔 고양이의 "츄르 광고" 시청이 필요합니다. 애처로운 눈빛과 함께.'
-          - Feature four
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
