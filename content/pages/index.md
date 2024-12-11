@@ -177,9 +177,9 @@ sections:
         title: ''
         price: $99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          현실적 선택, 더 많은 츄르와 평화로운 삶
+
         features:
           - Feature one
           - Feature two
