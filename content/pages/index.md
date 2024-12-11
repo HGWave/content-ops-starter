@@ -213,7 +213,7 @@ sections:
           이건 투자입니다, 고양이와의 평생 행복을 위해
         features:
           - '츄르 평생 제공: 이제 고양이와의 계약이 영구적입니다. 1년 뒤엔 무료인 셈!'
-          - Feature two
+          - '방해 제로: 고양이가 스스로 알아서 방해를 덜어주는 "자동 방해 해제 모드" 활성화 (개발 예정).'
           - Feature three
           - Feature four
           - Feature five
