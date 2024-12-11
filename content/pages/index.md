@@ -292,7 +292,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: 실제 고객님들 후기
+      text: 고객님들 후기
       color: text-dark
       styles:
         self:
