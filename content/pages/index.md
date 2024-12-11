@@ -96,7 +96,7 @@ sections:
           **골골송은 단순한 소리가 아닙니다. 그것은 강제 힐링! 200%의 볼륨으로 울려 퍼지는 *“골골골”은 당신의 모든 계획을
           무너뜨립니다.***
         image:
-          url: /images/squared_image_2.jpeg
+          url: /images/_com.apple.Pasteboard.1Kj2jY 2.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
