@@ -151,7 +151,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - '가벼운 시작: 고양이와의 첫 만남을 위한 기본 플랜. 당신은 부담 제로, 고양이는 만족 만점!'
           - Feature two
           - Feature three
           - Feature four
