@@ -62,7 +62,7 @@ sections:
           type: ImageBlock
           altText: ''
           elementId: ''
-          url: /images/_com.apple.Pasteboard.MCkNyF 2.png
+          url: /images/IMG_0269.JPG
           styles:
             self:
               borderRadius: x-large
