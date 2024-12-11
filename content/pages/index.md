@@ -60,9 +60,9 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
-          url: /images/IMG_0269.jpeg
+          url: /images/IMG_0269.JPG
           styles:
             self:
               borderRadius: x-large
@@ -73,7 +73,7 @@ sections:
           날아옵니다. 과연 이 방해를 거부할 수 있을까요?**
         image:
           url: /images/IMG_0790.jpeg
-          altText: Featured icon two
+          altText: ''
           elementId: ''
           type: ImageBlock
         actions: []
@@ -97,7 +97,7 @@ sections:
           무너뜨립니다.***
         image:
           url: /images/IMG_0390.jpeg
-          altText: Featured icon three
+          altText: ''
           elementId: ''
           type: ImageBlock
         actions: []
