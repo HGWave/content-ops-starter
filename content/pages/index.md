@@ -212,7 +212,7 @@ sections:
         description: |
           이건 투자입니다, 고양이와의 평생 행복을 위해
         features:
-          - Feature one
+          - '츄르 평생 제공: 이제 고양이와의 계약이 영구적입니다. 1년 뒤엔 무료인 셈!'
           - Feature two
           - Feature three
           - Feature four
