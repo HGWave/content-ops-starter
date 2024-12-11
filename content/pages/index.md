@@ -320,7 +320,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 한집사
+        title: 한집사 고객님
         tagline: Feature 1
         subtitle: '9,999+'
         text: |
