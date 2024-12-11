@@ -11,16 +11,7 @@ sections:
     text: >
       This product is in development. Please note that there is no sales
       schedule.
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       url: /images/IMG_0693.jpeg
       altText: Unblock your team boost your time to production preview
