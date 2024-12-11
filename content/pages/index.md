@@ -320,7 +320,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 빼앗긴 침대
+        title: ''
         tagline: Feature 1
         subtitle: '9,999+'
         text: |
