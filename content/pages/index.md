@@ -97,7 +97,7 @@ sections:
           무너뜨립니다.***
         image:
           url: /images/_com.apple.Pasteboard.1Kj2jY 2.png
-          altText: Featured icon three
+          altText: ''
           elementId: ''
           type: ImageBlock
         actions: []
