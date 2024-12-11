@@ -322,7 +322,7 @@ sections:
       - type: FeaturedItem
         title: 한집사 고객님
         tagline: Feature 1
-        subtitle: '9,999+'
+        subtitle: 1분전
         text: |
           침대는 집주인의 것이라고 생각했지만,
           언제부턴가 자는 모습을 보고
