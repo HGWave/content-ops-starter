@@ -190,7 +190,7 @@ sections:
           altText: Pricing plan 2
         actions:
           - type: Button
-            label: 신청하기
+            label: 구독하기
             url: /
             icon: arrowRight
             iconPosition: right
