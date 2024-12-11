@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: HR. SHOP
+      text: HR.
       color: text-dark
       type: TitleBlock
     subtitle: hello
