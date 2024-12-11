@@ -298,7 +298,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: 실제 고객님들 후기
       color: text-dark
       styles:
         self:
