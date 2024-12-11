@@ -241,7 +241,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: 우리의 고객님
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
