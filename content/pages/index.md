@@ -145,7 +145,7 @@ sections:
     plans:
       - type: PricingPlan
         title: ''
-        price: Free
+        price: 무료
         details: 신용 카드 필요 없음
         description: |
           0원! 당신의 고양이보다 더 부담 없는 가격
