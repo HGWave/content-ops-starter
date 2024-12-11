@@ -176,7 +176,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: $99
-        details: per month
+        details: 월
         description: |+
           현실적 선택, 더 많은 츄르와 평화로운 삶
 
