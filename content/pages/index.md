@@ -349,7 +349,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 한집사 고객님
-        tagline: Feature 1
+        tagline: 후기 1
         subtitle: 1분전
         text: >+
           *"방금 츄르를 뜯었는데, 고양이가 무슨 100미터 달리기 우사인 볼트처럼 달려왔어요. 이거 무서운데 또 귀엽고… 저 지금
