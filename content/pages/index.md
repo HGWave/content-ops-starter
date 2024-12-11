@@ -147,9 +147,8 @@ sections:
         title: ''
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          0원! 당신의 고양이보다 더 부담 없는 가격
         features:
           - '가벼운 시작: 고양이와의 첫 만남을 위한 기본 플랜. 당신은 부담 제로, 고양이는 만족 만점!'
           - '제한된 혜택: 츄르 제공 횟수는 제한적. 방해도 약간 덜 치열. 하지만 사랑만큼은 무제한!'
