@@ -383,7 +383,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: ㅇㅇㅇ
+    subtitle: 실시간 후가
   - title: Divider
     colors: bg-light-fg-dark
     styles:
