@@ -207,7 +207,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Custom
+        price: 영구 요금제
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
