@@ -383,7 +383,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: 실시간 후기
+    subtitle: 고객 후기 - 실시간 업데이트
   - title: Divider
     colors: bg-light-fg-dark
     styles:
