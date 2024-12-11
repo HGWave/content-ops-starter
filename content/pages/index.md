@@ -91,7 +91,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: 골골송의 위력
+        subtitle: 골골송의 초월적 파괴력
         text: >
           골골송은 소리가 아닙니다. 그것은 강제 힐링입니다. 볼륨은 200%, 집중력은 -200%! 이 작은 고양이 스피커에서 울려
           퍼지는 \*“골골골”\*은 당신의 모든 계획을 물거품으로 만들어 버립니다.
