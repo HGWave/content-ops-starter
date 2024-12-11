@@ -141,7 +141,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: 3가지 유연한 요금제
     plans:
       - type: PricingPlan
         title: Developers
