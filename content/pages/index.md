@@ -207,7 +207,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: 영구 요금제
-        details: per month
+        details: ''
         description: |
           이건 투자입니다, 고양이와의 평생 행복을 위해
         features:
