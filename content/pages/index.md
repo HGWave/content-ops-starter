@@ -182,7 +182,7 @@ sections:
 
         features:
           - '츄르 무제한: 이제 츄르 봉지를 수시로 뜯어도 됩니다. 고양이와 평화 협정 체결 완료!'
-          - Feature two
+          - '방해 감소 모드: 약간의 간식 보조로 "20배 방해력"이 10배로 줄어듭니다. 생산성 2배 증가!'
           - Feature three
           - Feature four
         image:
